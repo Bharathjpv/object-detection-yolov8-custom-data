@@ -3,6 +3,8 @@ prepare_data/*.csv
 prepare_data/image_list_file
 
 data/
+runs/
+*.pt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
