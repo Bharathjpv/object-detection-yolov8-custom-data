@@ -5,6 +5,8 @@ prepare_data/image_list_file
 data/
 runs/
 *.pt
+*.mp4
+predict.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
